@@ -25,24 +25,18 @@ The project uses Python, SQLite, and Power BI to clean, process, store, and visu
 * CSV – Data storage and export.
 
 📂 Project Structure
-
-Smart_Grocery_Sales_Analytics/
-│
-├── data/
-│   ├── cleaned_grocery_sales.csv
-│   ├── grocery.xlsx
-│   └── sales_from_sqlite.csv
-│
-├── database/
-│   └── grocery.db
-│
-├── Python/
-│   ├── data_cleaning.py
-│   └── load_to_sql.py
-│
-└── Report/
-    └── GROCERY DASHBOARD.pbix
-
+- data
+  - cleaned_grocery_sales.csv
+  - grocery.xlsx
+  - sales_from_sqlite.csv
+- database
+  - grocery.db
+- Python
+  - data_cleaning.py
+  - load_to_sql.py
+- Report
+  - GROCERY DASHBOARD.pbix
+  - 
 ⚙️ Project Workflow
 
 1. Data Collection: Grocery sales data is collected and prepared for analysis.
