@@ -76,5 +76,7 @@ The project uses Python, SQLite, and Power BI to clean, process, store, and visu
 👩‍💻 Author
 
 Poonam Poojary
+
 Data Analytics Project
+
 Tools: Python | SQL | SQLite | Excel | Power BI
