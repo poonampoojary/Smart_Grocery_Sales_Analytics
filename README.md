@@ -36,7 +36,7 @@ The project uses Python, SQLite, and Power BI to clean, process, store, and visu
   - load_to_sql.py
 - Report
   - GROCERY DASHBOARD.pbix
-  - 
+  
 ⚙️ Project Workflow
 
 1. Data Collection: Grocery sales data is collected and prepared for analysis.
