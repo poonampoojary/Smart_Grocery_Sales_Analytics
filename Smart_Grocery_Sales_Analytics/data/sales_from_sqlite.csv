@@ -1,0 +1,52 @@
+Date,Product,Category,Quantity,Unit_Price,Revenue,Expected_Revenue,Revenue_Check
+2026-11-15,Rice,Groceries,10,60,600,600,1
+2026-11-15,Sugar,Groceries,5,45,225,225,1
+2026-11-15,Sunflower Oil,Cooking Oil,4,150,600,600,1
+2026-11-15,Milk,Dairy,12,30,360,360,1
+2026-11-15,Bread,Bakery,8,40,320,320,1
+2026-11-15,Eggs,Dairy,3,90,270,270,1
+2026-11-15,Soap,Personal Care,6,35,210,210,1
+2026-11-15,Tea,Groceries,5,120,600,600,1
+2026-11-16,Rice,Groceries,8,60,480,480,1
+2026-11-16,Sugar,Groceries,6,45,270,270,1
+2026-11-16,Sunflower Oil,Cooking Oil,3,150,450,450,1
+2026-11-16,Milk,Dairy,15,30,450,450,1
+2026-11-16,Bread,Bakery,10,40,400,400,1
+2026-11-16,Eggs,Dairy,4,90,360,360,1
+2026-11-16,Soap,Personal Care,8,35,280,280,1
+2026-11-16,Tea,Groceries,4,120,480,480,1
+2026-11-17,Rice,Groceries,15,60,900,900,1
+2026-11-17,Sugar,Groceries,8,45,360,360,1
+2026-11-17,Sunflower Oil,Cooking Oil,5,150,750,750,1
+2026-11-17,Milk,Dairy,10,30,300,300,1
+2026-11-17,Bread,Bakery,12,40,480,480,1
+2026-11-17,Eggs,Dairy,5,90,450,450,1
+2026-11-17,Soap,Personal Care,10,35,350,350,1
+2026-11-17,Tea,Groceries,6,120,720,720,1
+2026-11-18,Rice,Groceries,12,60,720,720,1
+2026-11-18,Sugar,Groceries,10,45,450,450,1
+2026-11-18,Sunflower Oil,Cooking Oil,6,150,900,900,1
+2026-11-18,Milk,Dairy,18,30,540,540,1
+2026-11-18,Bread,Bakery,9,40,360,360,1
+2026-11-18,Eggs,Dairy,6,90,540,540,1
+2026-11-18,Soap,Personal Care,7,35,245,245,1
+2026-11-18,Tea,Groceries,8,120,960,960,1
+2026-11-19,Rice,Groceries,20,60,1200,1200,1
+2026-11-19,Sugar,Groceries,12,45,540,540,1
+2026-11-19,Sunflower Oil,Cooking Oil,8,150,1200,1200,1
+2026-11-19,Milk,Dairy,20,30,600,600,1
+2026-11-19,Bread,Bakery,15,40,600,600,1
+2026-11-19,Eggs,Dairy,8,90,720,720,1
+2026-11-19,Soap,Personal Care,12,35,420,420,1
+2026-11-19,Tea,Groceries,10,120,1200,1200,1
+2026-11-20,Rice,Groceries,18,60,1080,1080,1
+2026-11-20,Sugar,Groceries,9,45,405,405,1
+2026-11-20,Sunflower Oil,Cooking Oil,7,150,1050,1050,1
+2026-11-20,Milk,Dairy,16,30,480,480,1
+2026-11-20,Bread,Bakery,14,40,560,560,1
+2026-11-20,Eggs,Dairy,7,90,630,630,1
+2026-11-20,Soap,Personal Care,9,35,315,315,1
+2026-11-20,Tea,Groceries,9,120,1080,1080,1
+2026-11-21,Rice,Groceries,25,60,1500,1500,1
+2026-11-21,Sugar,Groceries,15,45,675,675,1
+2026-11-21,Sunflower Oil,Cooking Oil,10,150,1500,1500,1
